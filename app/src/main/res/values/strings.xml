@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">sinyee1-FeelsBook0</string>
+    <string name="love">love</string>
+    <string name="joy">joy</string>
+    <string name="surprise">surprise</string>
+    <string name="anger">anger</string>
+    <string name="sadness">sadness</string>
+    <string name="fear">fear</string>
+    <string name="comment">Add a comment \n(Maximum 100 characters.)</string>
+    <string name="skip">skip</string>
+    <string name="save">save</string>
+    <string name="history">history</string>
+    <string name="title_activity_show_dialog">ShowDialog</string>
+
+
+</resources>
